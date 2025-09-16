@@ -6,7 +6,8 @@ knowl -> Knowledge Discovery on Obsidian vaults with RAG System.
 ## Objective:
 Make a knowledge discovery platform that ingests our local markdown files as input
 and provide semantic Q\&A , search and summarization over the notes.
-Works completely offline and simple to use.
+
+- Privacy is a big issue and for that reason we are using open source models and vector databases.
 
 
 ## High Level Overview:
