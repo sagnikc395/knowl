@@ -102,5 +102,3 @@ Markdown files → Parse + Chunk → Embeddings + Metadata → Vector Store → 
   ```
 
   Returns answer + source files.
-
-- **Simple Web UI (optional)**: FastAPI backend + Streamlit or React frontend.
